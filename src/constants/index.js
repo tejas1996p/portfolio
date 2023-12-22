@@ -125,22 +125,9 @@ import {
       iconBg: "#E6DEDD",
       date: "Sep 2018 - Dec 2019",
       points: [
-        "Ran School’s IT, dealing with hardware/software issues and upgrading as required.",
-        "Managed budget for hardware/ software requirements for school’s computer laboratory.",
-      ],
-    },
-    {
-      title: "Web Developer - Remote",
-      company_name: "R.K. WebSoft Technology",
-      icon: rk,
-      iconBg: "#383E56",
-      date: "Sep 2018 - Dec 2019",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Solving the errors and Provided technical support for application related issues on client workstations.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Technologies used HTML, CSS, JS.",
+        "Managed and resolved hardware and software issues as the Computer Assistant, ensuring seamless operation of the organization's computer systems.",
+        "Effectively assisted users with technical support, software installations, and troubleshooting, contributing to a reliable and user-friendly computing environment.",
+        "Oversaw budgetary aspects, effciently managing resources for hardware and software requirements while maintaining compliance with security standards.",
       ],
     },
     {
@@ -150,33 +137,21 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Sep 2021",
       points: [
-        "Discussion of user interface concepts and applications with the development team.",
-        "Applicant criteria and interface designs are being reviewed.",
-        "Determining web-based user interactions.",
-        "Creating and implementing extremely responsive user interface components utilising react ideas.",
-        "Creating application interface code in JavaScript using react.js processes.",
-        "Debugging programme codes and troubleshooting interface software.",
-        "Creating and implementing front-end architecture to support user interface principles.",
-        "Monitoring and enhancing front-end performance.",
-        "Documenting application changes and generating updates.",
+        "Facilitated collaborative discussions with the development team to explore innovative user interface concepts and applications.",
+        "Conducted thorough reviews of applicant criteria and interface designs, ensuring adherence to project goals and standards.",
+        "Demonstrated proficiency in creating application interface code in JavaScript, utilizing React.js to implement highly responsive user interface components.",
       ],
     },
     {
-      title: "React.js Developer",
+      title: "Web Developer",
       company_name: "iBrainer Ltd",
       icon: ibrainers,
       iconBg: "#383E56",
-      date: "Jan 2022 - Present",
+      date: "Jan 2022 - Cont.",
       points: [
-        "Discussion of user interface concepts and applications with the development team.",
-        "Applicant criteria and interface designs are being reviewed.",
-        "Determining web-based user interactions.",
-        "Creating and implementing extremely responsive user interface components utilising react ideas.",
-        "Creating application interface code in JavaScript using react.js processes.",
-        "Debugging programme codes and troubleshooting interface software.",
-        "Creating and implementing front-end architecture to support user interface principles.",
-        "Monitoring and enhancing front-end performance.",
-        "Documenting application changes and generating updates.",
+        "Engaged in collaborative discussions with the development team to strategize user interface concepts and applications, conducting thorough reviews of applicant criteria and interface designs.",
+        "Specialized in determining and optimizing web-based user interactions by implementing highly responsive interface components using React.js.",
+        "Demonstrated expertise in creating and maintaining front-end architecture, encompassing debugging, troubleshooting, performance monitoring, and meticulous documentation of application changes for routine updates.",
       ],
     },
   ];
@@ -249,23 +224,6 @@ import {
         "Web application that enables users can see dashboard",
       tags: [
         {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: dashboard,
-      source_code_link: "https://github.com/tejas1996p/Modern-Dashboard",
-    },
-    {
-      name: "PortFolio",
-      description:
-        "Portfolio build using react js and tailwindcss.",
-      tags: [
-        {
           name: "nodejs",
           color: "blue-text-gradient",
         },
@@ -282,8 +240,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: portfolio,
-      source_code_link: "https://github.com/tejas1996p/portfolio",
+      image: dashboard,
+      source_code_link: "https://github.com/tejas1996p/Modern-Dashboard",
     },
   ];
   
