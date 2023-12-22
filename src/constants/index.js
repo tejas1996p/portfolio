@@ -21,6 +21,7 @@ import {
     bankpayment,
     restaurant,
     portfolio,
+    dashboard,
     threejs,
     megha,
     jaypal,
@@ -243,6 +244,23 @@ import {
       source_code_link: "https://github.com/tejas1996p/reactjs_restaurant",
     },
     {
+      name: "Modern Dashboard",
+      description:
+        "Web application that enables users can see dashboard",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: dashboard,
+      source_code_link: "https://github.com/tejas1996p/Modern-Dashboard",
+    },
+    {
       name: "PortFolio",
       description:
         "Portfolio build using react js and tailwindcss.",
@@ -265,7 +283,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/tejas1996p/portfolio",
     },
   ];
   

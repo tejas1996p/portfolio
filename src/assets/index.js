@@ -28,6 +28,7 @@ import ibrainers from "./company/ibrainers.png";
 import bankpayment from "./bankpayment.png";
 import restaurant from "./restaurant.png";
 import portfolio from "./portfolio.png";
+import dashboard from "./dashboard.png";
 
 import megha from "./megha.png";
 import jaypal from "./jaypal.png";
@@ -62,6 +63,7 @@ export {
   bankpayment,
   restaurant,
   portfolio,
+  dashboard,
   megha,
   jaypal,
   snehal,
